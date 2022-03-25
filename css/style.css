@@ -37,3 +37,16 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:darkslategrey;
 }
+#ptitle{
+    margin-top: 1%;
+    font-size: x-large;
+    text-align: center;
+}
+#paragraphs{
+    border : transparent;
+    font-size: large;
+    color: black;
+}
+ul{
+    margin-left: 20%;
+}

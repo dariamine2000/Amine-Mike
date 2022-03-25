@@ -1,4 +1,20 @@
+
+body{
+    background-color: antiquewhite;
+}
+#logo{
+    border: solid;
+    width: 100%;
+    height: max-content;
+    background-color: white;
+    border-color: grey;
+}
+#title{
+    margin-top: 0px;
+    border: thick;
+}
 img{
+    
     max-width: 100%;
     display: block;
     height: auto;
@@ -8,4 +24,16 @@ h1{
     text-align: center;
     color: gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img-caption{
+    color: crimson;
+    text-align:center;
+    font-size:medium;
+}
+#tribute-info{
+    border: solid;
+    border-color: grey;
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkslategrey;
 }

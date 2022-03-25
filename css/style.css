@@ -38,12 +38,20 @@ h1{
     color:darkslategrey;
 }
 #ptitle{
+    border: solid;
+    border-color: aliceblue;
+    border-top: 100%;
     margin-top: 1%;
+    color: white;
     font-size: x-large;
     text-align: center;
+    background-color: gray;
 }
 #paragraphs{
-    border : transparent;
+    border : solid;
+    border-style:ridge;
+    border-color: rgb(131, 148, 32);
+    border-top: 0ch 0ch;
     font-size: large;
     color: black;
 }
